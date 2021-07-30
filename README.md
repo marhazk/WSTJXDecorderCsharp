@@ -1,5 +1,14 @@
 # WSTJXDecorderCsharp
 
-This is a working WSTJX-Decoder apply for everyone.
+Originally written by Marhazli Kipli a.k.a MarHazK on 30-July-2021, 6:25pm
 
-Please help contribute and NOT SELLING it.
+This is a working WSTJX-Decoder apply for everyone who are eagerly want to decode the WSTJX UDP messages and studied and make it macro or what-so-ever.
+
+Please help contribute, improve it, and NOT SELLING it.
+
+You may contact marhazk@gmail.com (me, the original author)
+Contact: +6082243395 (WhatsApp Application)
+Web: www.marhazk.com
+
+Minimum: Visual Studio 2015
+Libs required: MarHazKClass
