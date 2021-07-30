@@ -11,4 +11,3 @@ Contact: +6082243395 (WhatsApp Application)
 Web: www.marhazk.com
 
 Minimum: Visual Studio 2015
-Libs required: MarHazKClass
